@@ -36,6 +36,11 @@ body{
 }
 
 #topnav-container a:hover {
+  background-color: rgb(185, 185, 185);
+  color: black;
+}
+
+#topnav-container a.active {
   background-color: #ddd;
   color: black;
 }
