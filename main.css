@@ -67,7 +67,6 @@ body{
 #column-container-frame{
   height: 600px;
   width: 100%;
-  padding-bottom: 90px;
 }
 
 #column-container-frame iframe {
@@ -84,6 +83,7 @@ body{
   background-color: #e0e0e0;
   padding: 10px 10px 10px 10px;
   font-size: 12px;
+  margin-bottom: 16px;
 }
 
 #columnL{
