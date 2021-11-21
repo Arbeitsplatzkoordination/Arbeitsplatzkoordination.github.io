@@ -60,7 +60,7 @@ body{
 }
 
 #column-container-frame{
-  height: 600px;
+  height: 100%;
   width: 100%;
 }
 
@@ -201,7 +201,6 @@ a:hover {
   margin:0px auto;
   background-color:white;
   overflow:auto;
-  display: block;
 }
 
 #columnL{
